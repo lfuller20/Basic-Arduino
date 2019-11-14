@@ -16,5 +16,5 @@ void loop()
 	speed = analogRead(potPin);
 	potVal = map(speed, 0, 1023, 0, 255); // scales the values from 1023 to 255
 	analogWrite(motorPin, potVal);
-	Serial.println(potVal);
+	Serial.println(potVal); // prints the value of the potentiometer
 }
