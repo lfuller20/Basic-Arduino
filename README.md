@@ -34,7 +34,15 @@ Obstacle I Faced:
   At first, I had an issue getting the LCD to display the correct number of button presses, but after researching the problem and receivng help, I resolved my issue and my circuit worked. 
 ## Motor Control
 Description: 
-  In this assignment, I was asked to make a motor spin at different speeds using a potentiometer. By using an arduino, a breadboard, a potentiometer, and a DC motor, I created a circuit. The 
+  In this assignment, I was asked to make a motor spin at different speeds using a potentiometer. By using an arduino, a breadboard, a potentiometer, and a DC motor, I created a circuit that manipulated the speed at which a motor spun, depending on how far a potentiometer was turned. 
+  
+Commented Code: 
+  https://github.com/lfuller20/Basic-Arduino/blob/master/Motor%20Control/motor%20control.ino
+  
+Image: 
+
+Obstacle I faced: 
+  I had some trouble mapping the value of the potentiometer 
 ## NewPing 
 ## Photointerrupters
 ## Potentiometers
