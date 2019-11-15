@@ -42,8 +42,18 @@ Commented Code:
 Image: 
 
 Obstacle I faced: 
-  I had some trouble mapping the value of the potentiometer 
+  I had some trouble mapping the value of the potentiometer because I was not aware of how to code my potentiometer to do so. I looked up some instructions on how to go about solving my issue and doing so, I was able to resolve my problem. The wiring for this project was also slightly tricky, however, by using smaller wires, I reduced the amount of excess wire in my circuit, making it easier for me to navigate my circuit. 
 ## NewPing 
+Description:
+  In this assignment, I was instructed to make something cool happen using an Ultrasonic Sensor. Using our knowledge that we acquired about functions, I was to code and wire a circuit that would illuminate an LED depending on how far away something was from an Ultrasonic sensor. I made my program so that after an object got 5 meters away from the sensor, the LED would illuminate. 
+  
+Commented Code:
+  https://github.com/lfuller20/Basic-Arduino/blob/master/NewPing/NewPing.ino
+  
+Image:
+
+Obstacle I faced: 
+  When I began working on this project, I had little knowledge about functions. Throughout and after working on this project, my knowlege of functions increased greatly. But even still, after strengthening my knowledge of functions, I still struggled slightly. I had trouble coding my program so that the LED lit up after the correct distance. At first, the LED lit when I placed my hand directly in front of the sensor, it lit up. But after doing some research I figured out my issue and was able to complete my project. 
 ## Photointerrupters
 ## Potentiometers
 ## Ultrasonic Sensor 
