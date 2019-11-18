@@ -55,7 +55,18 @@ Image:
 Obstacle I faced: 
   When I began working on this project, I had little knowledge about functions. Throughout and after working on this project, my knowlege of functions increased greatly. But even still, after strengthening my knowledge of functions, I still struggled slightly. I had trouble coding my program so that the LED lit up after the correct distance. At first, the LED lit when I placed my hand directly in front of the sensor, it lit up. But after doing some research I figured out my issue and was able to complete my project. 
 ## Photointerrupters
+Description:
+  In this assignment, I created a circuit that illuminated an LED when I put something in between the sensors of a photointerruptor. When coding my project, I could either use RISING or FALLING, I chose to use RISING. RISING is used when listening to what type of change you want to listen for, specifically when the pin goes from LOW to HIGH. 
+  
+Commented Code:
+  https://github.com/lfuller20/Basic-Arduino/blob/master/Photointerrupters/photointerrupters.ino
+  
+Image:
+
+Obstacle I faced:
+  Throughout this project, I really struggled with the coding. I was puzzled by the new commands being introduced to me. Since I had never used attachInterrupt and RISING/FALLING commands before, they were very tricky. However, after recieving some assistance, I was able to comprehend their use and complete my project. 
 ## Potentiometers
+Description:
 ## Ultrasonic Sensor 
 ## Button Presses 
 ## Fade LED
