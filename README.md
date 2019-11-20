@@ -7,6 +7,7 @@ Commented Code:
   https://github.com/lfuller20/Basic-Arduino/blob/master/Blink%20LED/Blink%20LED.ino
  
 Image: 
+https://cdn.instructables.com/F60/IZJJ/I8ZQZMO9/F60IZJJI8ZQZMO9.LARGE.jpg?auto=webp&fit=bounds
   
 Obstacle I Faced:
   I faced many obstacles throughout this project due to the fact that it was the first project I had done since the start of the school year. One issue in particular was the writing of the code.
@@ -18,6 +19,7 @@ Commented Code:
   https://github.com/lfuller20/Basic-Arduino/blob/master/Hello%20LCD/Hello%20LCD.ino
   
 Image:
+https://cdn-learn.adafruit.com/guides/cropped_images/000/000/136/medium640/overview.jpg?1520539998
 
 Obstacle I Faced: 
   During this project, I had some trouble coding the LCD because I had never worked with an LCD before. I wasn't aware that I had to install the Liquid Crystal Display library, but after receiving assistance, I was successfully able to complete my project. 
@@ -29,6 +31,7 @@ Commented Code:
   https://github.com/lfuller20/Basic-Arduino/blob/master/LCD%20backpack/LCD%20backpack.ino
  
 Image:
+http://wiki.chssigma.com/images/thumb/8/85/Fritzing_LCD_wiring_diagram.png/800px-Fritzing_LCD_wiring_diagram.png
 
 Obstacle I Faced: 
   At first, I had an issue getting the LCD to display the correct number of button presses, but after researching the problem and receivng help, I resolved my issue and my circuit worked. 
@@ -40,6 +43,7 @@ Commented Code:
   https://github.com/lfuller20/Basic-Arduino/blob/master/Motor%20Control/motor%20control.ino
   
 Image: 
+https://www.youtube.com/watch?v=CYTWTmqcXOA
 
 Obstacle I faced: 
   I had some trouble mapping the value of the potentiometer because I was not aware of how to code my potentiometer to do so. I looked up some instructions on how to go about solving my issue and doing so, I was able to resolve my problem. The wiring for this project was also slightly tricky, however, by using smaller wires, I reduced the amount of excess wire in my circuit, making it easier for me to navigate my circuit. 
@@ -51,6 +55,7 @@ Commented Code:
   https://github.com/lfuller20/Basic-Arduino/blob/master/NewPing/NewPing.ino
   
 Image:
+https://bitbucket-assetroot.s3.amazonaws.com/repository/77M5o7/3028821470-1424201420-2wire_bb.png?AWSAccessKeyId=AKIAIQWXW6WLXMB5QZAQ&Expires=1574281491&Signature=FvE6xFsbj7VnN8qzY0eIdf946So%3D
 
 Obstacle I faced: 
   When I began working on this project, I had little knowledge about functions. Throughout and after working on this project, my knowlege of functions increased greatly. But even still, after strengthening my knowledge of functions, I still struggled slightly. I had trouble coding my program so that the LED lit up after the correct distance. At first, the LED lit when I placed my hand directly in front of the sensor, it lit up. But after doing some research I figured out my issue and was able to complete my project. 
