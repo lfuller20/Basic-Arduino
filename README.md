@@ -72,7 +72,8 @@ Image:
 Obstacle I faced:
   Throughout this project, I really struggled with the coding. I was puzzled by the new commands being introduced to me. Since I had never used attachInterrupt and RISING/FALLING commands before, they were very tricky. However, after recieving some assistance, I was able to comprehend their use and complete my project. 
 ## Potentiometers
-Description:
+Description: 
+  
 ## Ultrasonic Sensor 
 ## Button Presses 
 ## Fade LED
