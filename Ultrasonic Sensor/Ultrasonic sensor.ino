@@ -6,8 +6,8 @@ Servo servo;
 void setup()
 {
   Serial.begin(9600);
-  pinMode(trigPin, OUTPUT);
-  pinMode(echoPin, INPUT);
+  pinMode(trigPin, OUTPUT); // specifies which pin on the sensor is the output
+  pinMode(echoPin, INPUT); // specifies which pin on the sensor is the input
   servo.attach(10);
 }
 
@@ -19,23 +19,23 @@ void loop()
   Serial.println();
   // delay
   delay(250);
-  if (distCM < 5)
+  if (distCM < 5) // states that if the distance is less than 5 cm the servo turns one way
   {
-    servo.write(161);
+    servo.write(161); 
   }
   else
-    if (distCM > 10)
+    if (distCM > 10) // states that if the distance is greater than 10 cm the servo turns the other way
     {
       servo.write(70);
     }
   else
-    if (5 < distCM < 10)
+    if (5 < distCM < 10) // states that if the distance is between 5cm and 10cm the servo does not move
     {
       servo.write(90);
     }
 }
 
-int getDistance()
+int getDistance() // gets the distance in cm
 {
   long duration, cm, inches;
   digitalWrite(trigPin, LOW);
