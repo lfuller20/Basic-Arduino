@@ -73,7 +73,32 @@ Obstacle I faced:
   Throughout this project, I really struggled with the coding. I was puzzled by the new commands being introduced to me. Since I had never used attachInterrupt and RISING/FALLING commands before, they were very tricky. However, after recieving some assistance, I was able to comprehend their use and complete my project. 
 ## Potentiometers
 Description: 
+  In this assignment, I was introduced to potentiometers. Potentiometers allow you to control the voltage traveling through a circuit. We were asked to make a LED illuminate and different brightnesses depending on how far the potentiometer was turned. In addition, we used an LCD screen to display a message stating the current brightness at that point in time.
+  
+Commented Code:
+  https://github.com/lfuller20/Basic-Arduino/blob/master/Potentiometers/potentiometers.ino
+  
+Image:
+  https://www.youtube.com/watch?v=RBYVUTIU4FE
+  
+Obstacle I faced:
+  I had one main problem when completing this project: coding the potentiometer. I struggle with coding, and having to include these functions that were very confusing to me did not make my task any easier. Mapping the values of the brightness was difficult however, I was able to overcome these obstacles and complete my project. 
   
 ## Ultrasonic Sensor 
+Description:
+  In this assignment, I was instructed to make something happen depending on how far away an object was from a sensor. In order to do so, I used an Ultrasonic Sensor and a servo. I chose to make a servo turn different directions depending on how far away something was from my Ultrasonic sensor. 
+  
+Commented Code:
+  https://github.com/lfuller20/Basic-Arduino/blob/master/Ultrasonic%20Sensor/Ultrasonic%20sensor.ino
+  
+Image: 
+  https://upload.wikimedia.org/wikipedia/commons/4/40/Arduino_circuit.jpg
+  
+Obstacle I faced:
+  During this project, I faced a couple of short lived obstacles, in addition to one large one. The less significant obstacles were wiring issues that I easily fixed. However, the larger issue was coding this project. Coding the if and else statements regarding the servo tripped me up, as well as writing the getDistance command. 
 ## Button Presses 
+Description:
+  In this assignment, I constructed a circuit that counted the number of times that a button was pressed. I completed this project using a button, a breadboard, some wires, and an LCD screen. 
+
+Commented Code:
 ## Fade LED
