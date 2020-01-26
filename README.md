@@ -95,10 +95,28 @@ Image:
   https://upload.wikimedia.org/wikipedia/commons/4/40/Arduino_circuit.jpg
   
 Obstacle I faced:
-  During this project, I faced a couple of short lived obstacles, in addition to one large one. The less significant obstacles were wiring issues that I easily fixed. However, the larger issue was coding this project. Coding the if and else statements regarding the servo tripped me up, as well as writing the getDistance command. 
+  During this assignment, I faced a couple of short lived obstacles, in addition to one large one. The less significant obstacles were wiring issues that I easily fixed. However, the larger issue was coding this project. Coding the if and else statements regarding the servo tripped me up, as well as writing the getDistance command. 
 ## Button Presses 
 Description:
   In this assignment, I constructed a circuit that counted the number of times that a button was pressed. I completed this project using a button, a breadboard, some wires, and an LCD screen. 
 
-Commented Code:
+Commented Code: 
+  https://github.com/lfuller20/Basic-Arduino/blob/master/button%20presses/buttonpresses.ino
+  
+Image: 
+  https://www.arduino.cc/en/tutorial/button
+  
+Obstacle I faced: 
+  My major setback with this assignment was my inability to stablize the button counter. Often after pressing the button the counter would display a random number or would skip a couple numbers. Overall I enjoyed this project because I thought it was a fun project that could be very useful for projects in the future.
 ## Fade LED
+Description:
+  In this assignment, I was asked to make an LED fade in and out, rather than just blink. Using only 3 male to male wire, a 220 ohm resistor, an LED, an arduino, a breadboard, and a USB cable, I was able to complete the assignment. In order to spicen up my project, I coded the serial monitor to print the brightness of my LED as it was fading in and out. 
+ 
+Commented Code: 
+  https://github.com/lfuller20/Basic-Arduino/blob/master/fade%20LED/fade%20LED.ino
+  
+Image:
+  https://commons.wikimedia.org/wiki/File:Arduino_led_fade.png
+  
+Obstacle I faced: 
+  When working on this project, I struggled with the coding aspect of the assignment. I had trouble understanding the function analogWrite as it had been one of the first time writing that function since the previous school year. After understanding the function and how to write it, I smoothly completed the assignment. 
